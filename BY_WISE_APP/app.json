@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "BY WISE",
+    "slug": "by-wise",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "bywise",
+    "ios": {"supportsTablet": true, "bundleIdentifier": "com.bywise.app"},
+    "android": {"package": "com.bywise.app"},
+    "plugins": ["expo-image-picker"]
+  }
+}
